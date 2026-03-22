@@ -9,8 +9,7 @@ To Develop a convolutional deep neural network for image classification and to v
 The goal of this project is to develop a Convolutional Neural Network (CNN) for image classification using the FashionMNIST dataset. The FashionMNIST dataset contains grayscale images of 10 different clothing categories (e.g., T-shirt, trousers, dress, etc.), and the model aims to classify them correctly. The challenge is to achieve high accuracy while ensuring computational efficiency.
 
 ## Neural Network Model
-
-<img width="1449" height="761" alt="425938618-8fb5d755-800a-4bd3-975a-3232e696eead" src="https://github.com/user-attachments/assets/aa4b2f94-5fce-46cd-8637-f833a1218e4d" />
+<img width="1269" height="483" alt="549364906-799c9ce5-5534-41c2-9934-13505242b147" src="https://github.com/user-attachments/assets/43a9d213-8969-4e26-9022-0b9fe26d4745" />
 
 ## DESIGN STEPS
 
